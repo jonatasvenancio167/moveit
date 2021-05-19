@@ -7,8 +7,6 @@ Um aplicativo que carrega a mesma ideia de um pomodoro, porém, a cada tempo com
 
 ## 🚀 Tecnologias
 
-<hr>
-
 ✅ NextJs <br>
 ✅ TypeScript <br>
 ✅ CSS3 Module <br>
@@ -17,7 +15,5 @@ Um aplicativo que carrega a mesma ideia de um pomodoro, porém, a cada tempo com
 ✅ React-dom <br>
 
 ## 📖 Tutorial
-
-<hr>
 
 <p>Para instalar às dependências basta rodar o comando "yarn install", que ele irá instalar todas as dependências utilizado no projeto. Após instalado todas as dependências, basta rodar o "yarn dev" e acessar o localhost:3000 no browser</p>
