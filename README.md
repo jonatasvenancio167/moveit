@@ -16,4 +16,4 @@ Um aplicativo que carrega a mesma ideia de um pomodoro, porém, a cada tempo com
 
 ## 📖 Tutorial
 
-<p>Para instalar às dependências basta rodar o comando "yarn install", que ele irá instalar todas as dependências utilizado no projeto. Após instalado todas as dependências, basta rodar o "yarn dev" e acessar o localhost:3000 no browser</p>
+<p>Para instalar às dependências basta rodar o comando <strong>yarn install</strong>, que ele irá instalar todas as dependências utilizado no projeto. Após instalado todas as dependências, basta rodar o <strong>yarn dev</strong> e acessar o <strong>localhost:3000</strong> no browser</p>
