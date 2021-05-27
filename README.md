@@ -5,15 +5,53 @@ Um aplicativo que carrega a mesma ideia de um pomodoro, porém, a cada tempo com
 
 <img src="public/tela_app.png">
 
-## 🚀 Tecnologias
+## 🛠 Tecnologias | Dependências
+
+<p>Principais ferramentas que foram usadas na construção do projeto</p>
+
+<h3>Tecnologias</h3>
 
 ✅ NextJs <br>
 ✅ TypeScript <br>
 ✅ CSS3 Module <br>
-✅ js-cookie <br>
 ✅ React <br>
+
+<h3>Dependências</h3>
+
+✅ js-cookie <br>
 ✅ React-dom <br>
 
-## 📖 Tutorial
+## <h4 align="center"> 
+    🚀 MoveIt concluído
 
-<p>Para instalar às dependências basta rodar o comando <strong>"yarn install"</strong>, que ele irá instalar todas as dependências utilizado no projeto. Após instalado todas as dependências, basta rodar o <strong>"yarn dev"</strong> e acessar o <strong>localhost:3000</strong> no browser</p>
+## pré-requisito
+
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas: 
+
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/) e [Yarn](https://classic.yarnpkg.com/en/docs/install/#windows-stable).
+
+Além disso é bom ter um editor para executar o código como [VsCode](https://code.visualstudio.com/download)
+
+### 🎲 Rodando o projeto
+
+```bash
+
+#clone este repositório
+
+$ git clone <https://github.com/jonatasvenancio167/moveit.git>
+
+## acesse a pasta do projeto no terminal/cmd
+
+$ cd moveit
+
+## instale as dependencias 
+
+$ yarn install
+
+## execute a aplicação em modo de desenvolvimento 
+
+$ yarn dev
+
+# O servidor iniciará na porta:3000, acesse <http://localhost:3000>
+
+```
